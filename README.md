@@ -11,3 +11,5 @@
 - PHP 7.4
 - Laravel 7.3
 - MySQL
+
+** Aplicação rodando no link: https://zirak.com.br/soft-expert/
