@@ -11,7 +11,7 @@
 ## :bookmark:  -  Sobre
  
 
-Desafio de teste de vaga - Desenvolvedor PHP - para a empresa Soft Expert -  [[https://ccg.gazin.com.br/](https://zirak.com.br/soft-expert)]
+Desafio de teste de vaga - Desenvolvedor PHP - para a empresa Soft Expert -  [[link do sistema](https://zirak.com.br/soft-expert)]
 
 <a id="tecnologias-utilizadas"></a>
 
